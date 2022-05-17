@@ -1,1 +1,1 @@
-# JogoDaMemoria
+Esse foi um projeto que gostei bastante de fazer. Um jodo da memória(jogo conhecido por todas as gerações), mas que me demandou bastante atenção e horas na cadeira pra termina-lo kkkkk. Foi um projeto do curso Programador Web e não vou mentir dizendo que não precisei dar umas boas colinhas. Mas o mais importante é que consegui entender todo o código e tudo o que cada função envolve. Sigo no aprendizado da linguagem JavaScript.
